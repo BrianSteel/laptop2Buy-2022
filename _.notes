@@ -1,0 +1,9 @@
+python -m venv venv 
+    - last venv is the path to new Virtual Environment
+    - second last is the venv of python 3.9
+
+r'something' 
+    - tells python do not process special chars in the string
+
+print(dir(objectInstance))
+    - prints all the methods and properties on the objectInstance
